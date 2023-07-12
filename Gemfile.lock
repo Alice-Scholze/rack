@@ -21,6 +21,7 @@ PLATFORMS
 
 DEPENDENCIES
   puma
+  rack
   thin
   unicorn
 
