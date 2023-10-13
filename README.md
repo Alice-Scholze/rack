@@ -1,5 +1,8 @@
 It is a quick project to understand how Rack gem and protocol works.
 
+
+*Take a look at the *[Rack Middlewar](https://medium.com/@alicenscholze/rack-middleware-1313441bd185)e* blog post to understand more about it 😄*
+
 ## Dependancies:
 - puma
 - thin
